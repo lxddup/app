@@ -1,0 +1,26 @@
+/*通用样式*/
+
+
+*{
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+
+/*a标签包img在早期ie里有1像素的蓝色边框*/
+
+img{
+    border:0;
+}
+
+/*通用样式结束*/
+
+/*字体文件网站 iconfont*/
+body{
+    font-size: 0.28rem;
+}
